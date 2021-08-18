@@ -7,9 +7,10 @@ import "../styles/Header.css";
 const styles = {
   headerStyle: {
     background: "Violet",
+
   },
   headingStyle: {
-    fontSize: "100px",
+    fontSize: "90px",
   },
 };
 
