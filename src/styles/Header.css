@@ -1,0 +1,12 @@
+ .header {
+  background: #81536e;
+  height: 200px;
+}
+
+.header h1 {
+  margin: 0;
+  padding-top: 75px;
+  text-align: left;
+  color: rgb(39, 18, 56);
+  font-size: 3rem;
+}
