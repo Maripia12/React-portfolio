@@ -1,0 +1,21 @@
+.nav-tabs {
+  background: #634872;
+  padding: 10px;
+  margin: 0;
+}
+
+
+a {
+    color: rgb(24, 205, 205);
+    text-decoration:none;
+    margin: 50px;
+   
+}
+
+.nav-item {
+  
+  font-size: 1.3rem;
+  display: flex;
+  display: inline;
+ 
+}

@@ -1,0 +1,48 @@
+/* 
+div, textarea, input {
+   box-sizing: border-box; 
+}  
+.container {  
+  max-width: 510px;
+  min-width: 324px;
+  margin: 50px auto 0px;
+  background-color: white;
+  border: 1px solid black;
+  border-bottom: 3px solid black;
+}
+.row {
+  width: 100%;
+  margin: 0 0 1em 0;
+  padding: 0 2.5em;
+
+}
+.pull-right {
+  float: right; 
+}
+.contactTitle {
+  
+  display: inline-block;
+  font-weight: 100;
+  border-bottom: 1px solid hsla(100%, 100%, 100%, 0.3);
+  margin: 0 0 0.1em 0;
+  padding: 0 0 0.4em 0;
+}
+
+.btn {
+ 
+  display: inline-block;
+  padding: 0.74em 1.5em;
+  margin: 1.5em 0 0;
+  color: white;
+  border-width: 0 0 0 0;
+  border-bottom: 5px solid;
+  text-transform: uppercase;
+ 
+} */
+ul{
+    list-style: none;
+}
+
+
+
+

@@ -1,14 +1,11 @@
 import React from "react";
 
-import "../styles/Header.css";
+import "./Header.css";
 
 
 
 const styles = {
-  headerStyle: {
-    background: "Violet",
 
-  },
   headingStyle: {
     fontSize: "90px",
   },
@@ -18,7 +15,7 @@ const styles = {
 function Header() {
   return (
     <header style={styles.headerStyle} className="header">
-      <h1 style={styles.headingStyle}>Welcome</h1>
+      <h1 style={styles.headingStyle}>Pia Paulino</h1>
     </header>
   );
 }

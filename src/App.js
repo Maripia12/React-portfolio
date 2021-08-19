@@ -1,6 +1,7 @@
 import React from "react";
-import Header from "./components/Header";
-// import Navbar from  "./components/Navbar";
+import Header from "./components/Header/Header";
+import Footer from "./components/Footer/Footer";
+import PortfolioContainer from "./components/PortfolioContainer/PortfolioContainer";
 // import Projects from "./components/Projects";
 // import Footer from "./components/Footer";
 
@@ -11,9 +12,9 @@ function App() {
     <div className="App">
       <div>
         <Header />
-        {/* <Navbar />
-        <Projects />
-        <Footer /> */}
+        <PortfolioContainer />
+        {/* <Projects /> */}
+        <Footer />
       </div>
     </div>
   );

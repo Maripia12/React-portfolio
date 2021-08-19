@@ -1,7 +1,8 @@
  .header {
-  background: #b45fdb;
+  background-color: hsl(282, 47%, 65%);
   height: 180px;
-  
+  border-radius: 5px;
+  border: solid hsl(106, 75%, 57%) 4px;
 }
 
 .header h1 {
@@ -10,4 +11,5 @@
   text-align: left;
   color: rgb(80, 51, 104);
   font-size: 3rem;
+  text-shadow: 2px 2px 5px #f1e4e4;
 }

@@ -1,6 +1,23 @@
+body {
+  background-color: rgb(175, 233, 211);
+  margin: 0%;
+}
 .App {
   text-align: center;
 }
+
+footer {
+   width: 100%;
+   position: fixed;
+   bottom: 0px;
+   text-emphasis: center;
+   background-color: rgb(132, 122, 133) ;
+   height: 48px;
+}
+
+
+
+
 
 .App-logo {
   height: 40vmin;
