@@ -10,8 +10,8 @@ export default function Resume() {
         <h1>Resume</h1>
         
             
-            <div> 
-                <a href="https://docs.google.com/document/d/1tkDY9K_rjZuu1TNVI37NaCbOBUBvo_U4/edit?usp=sharing&ouid=110040946983332379633&rtpof=true&sd=true">RESUME DOCUMENT </a>
+            <div class = "download"> 
+                <a href="https://docs.google.com/document/d/1tkDY9K_rjZuu1TNVI37NaCbOBUBvo_U4/edit?usp=sharing&ouid=110040946983332379633&rtpof=true&sd=true">DOWNLOAD MY RESUME! </a>
 
            <h2>
              Front-End Proficiencies:

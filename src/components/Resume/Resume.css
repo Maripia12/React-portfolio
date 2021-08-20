@@ -13,3 +13,12 @@ h2 {
     background-color: rgb(238, 231, 206);
 
 }
+
+.download a {
+    color: #dd3b12;
+
+}
+
+a:hover {
+    color: hsl(80, 73%, 44%);
+}
