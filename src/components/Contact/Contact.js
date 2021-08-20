@@ -12,24 +12,24 @@ export default function Contact() {
               <ul>
                 <li>
                   <p class="left">
-                    <label for="first_name">first name</label>
-                    <input type="text" name="first_name" placeholder="John" />
+                    <label for="first_name">First Name </label>
+                    <input type="text" name="first_name" />
                   </p>
                   <p class="pull-right">
-                    <label for="last_name">last name</label>
-                    <input type="text" name="last_name" placeholder="Smith" />
+                    <label for="last_name">Last Name </label>
+                    <input type="text" name="last_name" />
                   </p>
                 </li>
 
                 <li>
                   <p>
                     <label for="email">
-                      email <span class="req">*</span>
+                      Email <span class="req">*</span>
                     </label>
                     <input
                       type="email"
                       name="email"
-                      placeholder="john.smith@gmail.com"
+                     
                     />
                   </p>
                 </li>
@@ -37,8 +37,10 @@ export default function Contact() {
                   <div class="divider"></div>
                 </li>
                 <li>
-                  <label for="comments">comments</label>
-                  <textarea cols="46" rows="3" name="comments"></textarea>
+                  <p>
+                  <label for="comments">Message </label>
+                  <textarea cols="100" rows="15" name="comments"></textarea>
+                  </p>
                 </li>
 
                 <li>

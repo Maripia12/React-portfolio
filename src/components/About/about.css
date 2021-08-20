@@ -1,0 +1,26 @@
+.pic {
+    border-radius: 50%;
+    border: 5px solid purple;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+.me {
+    background-color: rgb(148, 226, 224);
+    border: 3px solid purple;
+    color: rgb(80, 51, 104);
+    font-weight: bold;
+    border-radius: 5px 5px;
+    padding: 40px 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-top: 55px;
+    padding-bottom: 55px;
+    margin-right: 65px;
+    margin-left: 65px;
+   
+    
+}
