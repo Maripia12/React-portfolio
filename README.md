@@ -7,7 +7,7 @@ Create a portfolio using my new React skills and sucessfully deploy it to my Git
 
 ## Details:
 
-* Portfolio contains a header with my full name and a navigation to an 'About ME' section, a 'Projects' section, a 'Contat' section and a 'Resume' section. Also a footer is available with icon links to my GitHub and my LinkedIn account.  
+* Portfolio contains a header with my full name and a navigation to an 'About ME' section, a 'Projects' section, a 'Contact' section and a 'Resume' section. Also a footer is available with icon links to my GitHub and my LinkedIn account.  
 
 * When Clicked on the navigation section the corresponding section appears without the page reloding.
 
