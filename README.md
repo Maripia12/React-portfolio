@@ -27,9 +27,9 @@ ___
 
 ## DEMO:
 
-[My GitHub Repo](https://github.com/Maripia12/React-portfolio/tree/main)
+<!-- [My GitHub Repo](https://github.com/Maripia12/React-portfolio/tree/main) -->
 
-[Link to Deployed React Portfolio](https://maripia12.github.io/React-portfolio/)
+<!-- [Link to Deployed React Portfolio](https://maripia12.github.io/React-portfolio/) -->
 
 
 ![screenshot](src/assets/portfolio.png)
