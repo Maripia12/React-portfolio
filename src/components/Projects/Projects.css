@@ -3,26 +3,43 @@
     
 } */
 
+div h3 {
+    color: hsl(17, 96%, 50%);
+    margin: 25px;
+}
+
+h3:hover {
+    color:rgb(250, 225, 5);
+    text-shadow: 1px 1px rgb(190, 177, 177); 
+    
+
+}
+
 .project1 {
+    box-shadow: 8px 8px 8px rgb(78, 73, 73);
    border: 5px solid purple;
    
 }
 
 
 .project2 {
+    box-shadow: 8px 8px 8px  rgb(78, 73, 73);
     border: 5px solid purple;
 }
 
 
 .note-taker {
+    box-shadow: 8px 8px 8px rgb(78, 73, 73);
     border: 5px solid purple;
 }
 
 .workout-tracker{
+    box-shadow: 8px 8px 8px rgb(78, 73, 73);
    border: 5px solid purple;
 }
 
 .budget-tracker{
+    box-shadow: 8px 8px 8px rgb(78, 73, 73);
    border: 5px solid purple;
 }
 

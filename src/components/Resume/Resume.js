@@ -11,7 +11,7 @@ export default function Resume() {
         
             
             <div> 
-                <a href="https://docs.google.com/document/d/1tkDY9K_rjZuu1TNVI37NaCbOBUBvo_U4/edit?usp=sharing&ouid=110040946983332379633&rtpof=true&sd=true">DOWNLOAD MY RESUME DOCUMENT</a>
+                <a href="https://docs.google.com/document/d/1tkDY9K_rjZuu1TNVI37NaCbOBUBvo_U4/edit?usp=sharing&ouid=110040946983332379633&rtpof=true&sd=true">RESUME DOCUMENT </a>
 
            <h2>
              Front-End Proficiencies:

@@ -43,13 +43,24 @@ div, textarea, input {
 .btn {
   background-color: rgb(27, 211, 218);
   size: 15px;
-  border-radius: 5px 5px 5px;
+  border-radius: 10px 10px 10px;
   padding: 10px 10px;
-  color: whitesmoke;
+  color: #f5f5f5;
   font-size: 18px;
+  box-shadow: 2px 2px 2px rgb(78, 73, 73);;
   
 
 }
+
+.btn:hover{ 
+  color: rgb(27, 222, 222);
+  transition: 0.3s;
+  background-color: rgb(114, 67, 134);
+  box-shadow: 5px 5px 10px rgb(78, 73, 73);;
+   
+}
+
+
 
 
 ul{
