@@ -1,6 +1,6 @@
 .pic {
     border-radius: 50%;
-    border: 2px solid purple;
+    border: 5px solid purple;
 }
 
 p {
@@ -15,11 +15,11 @@ p {
     color: rgb(80, 51, 104);
     font-weight: bold;
     border-radius: 5px 5px;
-    padding: 40px 40px;
-    padding-left: 120px;
-    padding-right: 120px;
-    padding-top: 55px;
-    padding-bottom: 55px;
+    padding: 35px 35px;
+    padding-left: 115px;
+    padding-right: 115px;
+    padding-top: 45px;
+    padding-bottom: 45px;
     margin-right: 65px;
     margin-left: 65px;
    

@@ -9,7 +9,7 @@ export default function About() {
 
       <img
         class="pic"
-        src="https://github.com/Maripia12/React-portfolio/blob/main/src/assets/portfolio_pic.jpg?raw=true"
+        src="https://github.com/Maripia12/React-portfolio/blob/main/src/assets/me.png?raw=true"
         width="300"
       />
 
