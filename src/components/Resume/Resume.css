@@ -1,0 +1,15 @@
+h2 {
+    text-decoration: underline;
+}
+
+.front {
+    font-size: 20px;
+    background-color: rgb(238, 231, 206);
+
+}
+
+.back {
+    font-size: 20px;
+    background-color: rgb(238, 231, 206);
+
+}
